@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "600920399980",
+    "firebase_url": "https://fireapp-96b1a.firebaseio.com",
+    "project_id": "fireapp-96b1a",
+    "storage_bucket": "fireapp-96b1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600920399980:android:8152aea64b2c81cc",
+        "android_client_info": {
+          "package_name": "stephany.com.fireapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600920399980-vsh11l9jkauavge0hbflbmnrehffmse7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBScmLz8TwVtLEEzhc5GpJmMsSQmb46zvs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
